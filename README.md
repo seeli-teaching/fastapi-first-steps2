@@ -20,3 +20,5 @@ Erste Schritte mit der FastAPI in Python
 9. Schau dir die automatisch erstellte API-Dokumentation im Browser an: url/docs
 
 
+
+
